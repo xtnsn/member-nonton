@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4 text-primary">CineElite</h3>
+            <h3 className="text-xl font-bold mb-4 text-primary">ANIMMOMEN</h3>
             <p className="text-gray-400 mb-4">
               Premium movie streaming platform with high-quality content for true cinema enthusiasts.
             </p>
@@ -72,7 +72,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <ul className="space-y-2">
-              <li className="text-gray-400">Email: info@cineelite.com</li>
+              <li className="text-gray-400">Email: info@animmomen.website</li>
               <li className="text-gray-400">Phone: +1 (555) 123-4567</li>
               <li className="text-gray-400">Address: 123 Movie Lane, Hollywood, CA 90001</li>
             </ul>
@@ -80,7 +80,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-zinc-800 mt-8 pt-8 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} CineElite. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} ANIMMOMEN. All rights reserved.</p>
         </div>
       </div>
     </footer>
