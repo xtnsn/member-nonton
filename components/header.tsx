@@ -51,7 +51,7 @@ export default function Header() {
       >
         <div className="container mx-auto px-4 flex items-center justify-between">
           <Link href="/" className="text-2xl font-bold text-primary" onClick={closeMobileMenu}>
-            CineElite
+            ANIMMOMEN
           </Link>
 
           <nav className="hidden md:flex items-center space-x-8">
